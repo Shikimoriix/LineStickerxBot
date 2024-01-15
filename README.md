@@ -4,7 +4,7 @@
 
 [<img width="250" alt="image" src="https://telegra.ph/file/eb954bcd78f8f0403560c.jpg">](https://telegram.me/LineStickerxBot)
 
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-181717?logo=telegram&logoColor)](https://telegram.me/MaximXSticker) [![Telegram](https://img.shields.io/badge/Telegram-Group-181717?logo=telegram&logoColor)](https://telegram.me/MaximXGroup)
+[![Telegram](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MaximXSticker) ㅤ[![Telegram](https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MaximXGroup)
 </div></h3>
 
 **How to Copy a Line Store Sticker Link and Send to @LineStickerxBot (From Any Browser)**
