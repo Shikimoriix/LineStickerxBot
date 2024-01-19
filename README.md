@@ -5,8 +5,7 @@
  
   [<img width="300" alt="image" src="https://telegra.ph/file/49f8504623eacfea96e12.png">](https://telegram.me/LineStickerxBot) </div>
 
-[![Telegram](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MaximXSticker) [![Telegram](https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MaximXGroup) [![Telegram](https://img.shields.io/badge/Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/LineStickerxBot)
-
+[![Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MaximXSticker) [![Bot](https://img.shields.io/badge/Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/LineStickerxBot) [![Group](https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MaximXGroup) 
 </div></h3>
 
 📮 A Telegram [LINE](https://store.line.me/) / [Kakaotalk](https://e.kakao.com/) stickers request bot!
