@@ -106,3 +106,5 @@
   Repository Developed by **[Shinei](https://github.com/Shineii86)**
 
 リポジトリの開発者: **[シンエイ](https://github.com/Shineii86)**
+
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3.0-blue.svg)](https://github.com/Shikimoriix/LineStickerxBot/blob/main/LICENSE)
