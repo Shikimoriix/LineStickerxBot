@@ -3,11 +3,18 @@
   **Line Stickers Request Bot**
 <div align="center">
  
-  [<img width="250" alt="image" src="https://telegra.ph/file/eb954bcd78f8f0403560c.jpg">](https://telegram.me/LineStickerxBot) </div>
+  [<img width="300" alt="image" src="https://telegra.ph/file/49f8504623eacfea96e12.png">](https://telegram.me/LineStickerxBot) </div>
 
 [![Telegram](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MaximXSticker) [![Telegram](https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MaximXGroup) [![Telegram](https://img.shields.io/badge/Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/LineStickerxBot)
 
 </div></h3>
+📮 A Telegram  LINE/Kakaotalk stickers request bot!
+<br>
+<br>
+📮 テレグラム LINE/Kakaotalk ステッカーのリクエストボット！
+<br>
+
+---
 
 **How to Copy a Line Store Sticker Link and Send to [@LineStickerxBot](https://telegram.me/LineStickerxBot) (From Any Browser)**
 
@@ -58,4 +65,10 @@
 
 <div align="center">
 
-  [<img width="250" alt="image" src="https://telegra.ph/file/b7a0188857694bc6c76d7.jpg">](https://telegram.me/LineStickerxBot) </div> 
+  [<img width="250" alt="image" src="https://telegra.ph/file/b7a0188857694bc6c76d7.jpg">](https://telegram.me/LineStickerxBot) </div>
+
+---
+
+**Special Thanks:** [LINE Corp](https://linecorp.com/) / [Kakao Corp](http://www.kakaocorp.com/) for cute stickers.
+<br>
+  **スペシャルサンクス:** [LINE Corp](https://linecorp.com/) / [Kakao Corp](http://www.kakaocorp.com/) かわいいステッカーのために。
