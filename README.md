@@ -1,6 +1,6 @@
-<h3> <div align="center"> 
+<h4> <div align="center"> 
   
-  **Line Stickers Request Bot**
+  **LINE/Kakaotalk Stickers Request Bot**
 <div align="center">
  
   [<img width="300" alt="image" src="https://telegra.ph/file/49f8504623eacfea96e12.png">](https://telegram.me/LineStickerxBot) </div>
@@ -98,3 +98,12 @@
 **Special Thanks:** [LINE Corp](https://linecorp.com/) / [Kakao Corp](http://www.kakaocorp.com/) for cute stickers.
 <br>
   **スペシャルサンクス:** [LINE Corp](https://linecorp.com/) / [Kakao Corp](http://www.kakaocorp.com/) かわいいステッカーのために。
+
+
+---
+
+<div align="center"> <sub>
+  
+  Repository Developed by **[Shinei](https://github.com/Shineii86)**
+
+リポジトリの開発者: **[シンエイ](https://github.com/Shineii86)**
