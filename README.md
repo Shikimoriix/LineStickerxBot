@@ -98,7 +98,15 @@
 <br>
   **スペシャルサンクス:** [LINE Corp](https://linecorp.com/) / [Kakao Corp](http://www.kakaocorp.com/) かわいいステッカーのために。
 
-
+<details> 
+  <summary><b>hangelog V1.0
+  </b>
+</summary>
+• Fix Bugs. (Request Requested/Approved)
+• Add Japanese Language Support.
+• Fix flood limit by ignoring it.
+• Improve Stickers Quality.
+  
 ---
 
 <div align="center"> <sub>
