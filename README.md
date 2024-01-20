@@ -107,7 +107,8 @@
 - Add Japanese Language (Translate).
 - Fix flood limit by ignoring it.
 - Improve Stickers Quality.
-  
+
+  </details>
 ---
 
 <div align="center"> <sub>
